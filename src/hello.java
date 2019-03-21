@@ -3,4 +3,5 @@
  */
 public class hello {
     private int num = 10;
+    private int num3 = 30;
 }
